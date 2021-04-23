@@ -1,4 +1,3 @@
 # rudementary-chat-bot
-# rudementary-chat-bot
-# chat-bot
-# chat-bot
+
+Experimenting with socket.io and chat bots for a future project
